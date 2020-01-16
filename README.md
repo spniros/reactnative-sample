@@ -1,2 +1,3 @@
 # reactnative-sample
-expo cli practi e
+expo cli practice sample app with axios connect with dummy api end point
+
